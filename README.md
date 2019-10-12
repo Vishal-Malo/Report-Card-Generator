@@ -1,0 +1,2 @@
+# Report-Card-Generator
+In today's world, many educational institutions interact with their students through online portal where students on creating their account can study, do assignments, etc. online. The institutions in return connect with their students through emails provided by them during registration. This repository is also based on sending a report every month to the registered students about their progress. It is based on CampusX Mentorship Programme operated by Mywbut.com
